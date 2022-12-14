@@ -28,7 +28,7 @@
       <!-- 슬라이드 사진1 안에 들어갈 문구를 입력합니다. -->
       <h3><b>호캉스 는 Hotel The Green 과 함께 하세요!</h3>
       <p><b>경치가 빼어난 객실들이 준비 되어 있습니다.</b></p>   
-    </div>
+    </div>test
   </div>
   <!-- slide show 사진 2 -->
   <div class="mySlides w3-display-container w3-center">
